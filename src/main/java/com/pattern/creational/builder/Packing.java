@@ -9,6 +9,6 @@ package com.pattern.creational.builder;
  *
  * @author giord
  */
-class Packing {
-    
+public interface Packing {
+    public String pack();
 }
